@@ -1,2 +1,2 @@
 # TNN: Tree Neural Network for Airway Anatomical Labeling
-Comming Soon
+This is an official implementation for "TNN: Tree Neural Network for Airway Anatomical Labeling".
